@@ -2,3 +2,9 @@ article
 {
 	background: yellow;
 }
+#id {
+	margin: 0 25%;
+}
+#id img {
+	height: 512px;
+}
