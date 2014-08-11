@@ -10,6 +10,11 @@
 .f-name {
 	font-size: 20px;
 }
+
+article
+{
+	background: yellow;
+}
 #id {
 	margin: 0 25%;
 }
