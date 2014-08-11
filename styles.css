@@ -7,7 +7,7 @@
 	border:2px solid #ccc;
 	border-radius:4px;
 	text-align:center;
-=======
+}
 .viz {
 	width: 300px;
 	height: 100px;
@@ -30,5 +30,5 @@ article
 }
 #id img {
 	height: 512px;
->>>>>>> ac917e29a4beda3f365eaf0eeba2b42c253dbb7f
+
 }
