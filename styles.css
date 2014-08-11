@@ -9,5 +9,10 @@
 
 .f-name {
 	font-size: 20px;
-	font-style: 
+}
+#id {
+	margin: 0 25%;
+}
+#id img {
+	height: 512px;
 }
