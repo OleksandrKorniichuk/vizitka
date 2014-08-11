@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #crihalix{
 	width:60%;
 	height:200px;
@@ -6,4 +7,28 @@
 	border:2px solid #ccc;
 	border-radius:4px;
 	text-align:center;
+=======
+.viz {
+	width: 300px;
+	height: 100px;
+	background-color: green;
+	border: 1px solid blue;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.f-name {
+	font-size: 20px;
+}
+
+article
+{
+	background: yellow;
+}
+#id {
+	margin: 0 25%;
+}
+#id img {
+	height: 512px;
+>>>>>>> ac917e29a4beda3f365eaf0eeba2b42c253dbb7f
 }
